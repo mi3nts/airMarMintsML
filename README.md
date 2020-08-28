@@ -1,2 +1,2 @@
 # airMarMintsML
-Download and Analyize data ffrom Airmar Weather Sensor 
+Download and Analyize data from Airmar Weather Sensor 
